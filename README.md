@@ -49,3 +49,7 @@ As a computer scientist, it's good practice to think ethically
 - **Protect user data**: If user data is involved (e.g., in a real assistant), collect the minimum needed and protect it.
 
 These themes follow responsible-AI guidance from Microsoft, Google, and OpenAI and scale from classroom projects to production systems.
+
+
+## References
+- Mnih, V., Kavukcuoglu, K., Silver, D., et al. (2015). Human-level control through deep reinforcement learning. Nature, 518(7540), 529–533. https://doi.org/10.1038/nature14236

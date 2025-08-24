@@ -24,7 +24,7 @@ The core part of the project involved writing the logic in the `qtrain()` functi
 
 ### What Do Computer Scientists Do and Why Does It Matter?
 
-Computer scientists turn messy, real-world problems into well-defined computations and then design algorithms that solve them reliably. That matters because the world rarely hands you “clean” problems—yet people still need robust, safe solutions. Here I treated “find the treasure efficiently” as a sequential decision problem and used reinforcement learning to learn a policy from experience. The bigger idea is that the same pattern shows up in robotics, recommendations, and scheduling systems.
+Computer scientists turn messy, real-world problems into well-defined computations and then design algorithms that solve them reliably. That matters because the world rarely hands you “clean” problems, however,  people still need robust, safe solutions. Here I treated “find the treasure efficiently” as a sequential decision problem and used reinforcement learning to learn a policy from experience. The bigger idea is that the same pattern shows up in robotics, recommendations, and scheduling systems.
 
 > Human-level DRL models, such as those from DeepMind, have shown that neural networks can learn complex policies directly from high-dimensional input data (Mnih et al., 2015).
 
